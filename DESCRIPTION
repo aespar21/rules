@@ -24,7 +24,7 @@ Suggests:
     C50,
     pre,
     Cubist,
-    xrf (>= 0.1.3),
+    xrf (>= 0.1.2),
     covr,
     modeldata
 Encoding: UTF-8
@@ -38,5 +38,3 @@ Imports:
     dials,
     tidyr,
     dplyr
-Remotes:
-    holub008/xrf
